@@ -1,5 +1,5 @@
-%% This script requires a file location to a PDF 
-%% The script will convert the PDF into one or more TXT files, each file containing an amount of text that Chat GPT can ingest at one time (~30,000 characters)
+### This script requires a file location to a PDF 
+### The script will convert the PDF into one or more TXT files, each file containing an amount of text that Chat GPT can ingest at one time (~30,000 characters)
 
 import PyPDF2
 import os
