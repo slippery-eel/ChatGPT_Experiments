@@ -1,6 +1,6 @@
-%% This script requires a folder with one or more txt files as an input.
-%% The script will use the GPT API to summarize the text within each of the txt files in succession
-%% This was useful to me in a situation when I had access to many txt files that I needed to interpret & understand quickly
+### This script requires a folder with one or more txt files as an input.
+### The script will use the GPT API to summarize the text within each of the txt files in succession
+### This was useful to me in a situation when I had access to many txt files that I needed to interpret & understand quickly
 
 
 import os
